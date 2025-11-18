@@ -1,0 +1,17 @@
+ Page 9 
+Unit 
+Speciﬁcations 
+and Features
+ 
+                                                 
+Other Features
+• Auto-Restart(some units)
+If the unit loses power, it will automatically 
+restart with the prior settings once power has 
+been restored.
+• Anti-mildew (some units)
+When turning off the unit from COOL, AUTO 
+(COOL), or DRY modes, the air conditioner will 
+continue operate at very low power to dry up 
+condensed water and prevent mildew growth.
+• Wireless Control (some units)

@@ -1,0 +1,5 @@
+The hose should be regularly checked to ensure that there are no holes or kinks in it, that 
+  could lead to leakage or blocking of the passage of flow
+When carrying out the venting, the flow of refrigerant should be metered using manifold 
+gauges to a low flow rate, so as to ensure the refrigerant is well diluted. Once the refrigerant 
+has ceased flowing, if possible, the system should be flushed out with OFN; if not, then the

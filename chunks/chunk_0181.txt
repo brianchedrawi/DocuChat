@@ -1,0 +1,17 @@
+> Standard pipe
+   length
+Vacuum Pump
+Liquid Side: Ø 6.35 (ø 0.25”)
+R32: 
+(Pipe length – standard length) x 12g/m 
+(Pipe length – standard length) x 0.13oZ/ft
+R290: R290: 
+(Pipe length – standard length) x 10g/m
+(Pipe length – standard length) x 0.10oZ/ft
+Liquid Side: Ø 9.52 (ø 0.375”)
+R32: 
+(Pipe length – standard length) x 24g/m 
+(Pipe length – standard length) x 0.26oZ/ft
+(Pipe length – standard length) x 18g/m
+(Pipe length – standard length) x 0.19oZ/ft
+ R410A: R410A:

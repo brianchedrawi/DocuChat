@@ -1,0 +1,7 @@
+spaces and the refrigerant charge for the spaces where leaked refrigerant may flow to,
+considering where the unit is located. All spaces shall have a floor area more than A
+min.
+0
+ 
+ 
+2

@@ -1,0 +1,5 @@
+sensitivity may not be adequate, or may need re-calibration.(Detection equipment shall be
+calibrated in a refrigerant-free area.) Ensure that the detector is not a potential source of ignition
+and is suitable for the refrigerant. Leak detection equipment shall be set at a percentage of the
+LFL of the refrigerant and shall be calibrated to the refrigerant employed and the appropriate
+percentage of gas (25% maximum) is confirmed. Leak detection fluids are suitable for use with

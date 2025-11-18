@@ -1,0 +1,6 @@
+h) Do not overfill cylinders. (No more than 70% liquid volume. The liquid density of the 
+    refrigerant with a reference temperature of 50°C).
+i) Do not exceed the maximum working pressure of the cylinder, even temporarily.
+j) When the cylinders have been filled correctly and the process completed, make sure that
+   the cylinders and the equipment are removed from site promptly and all isolation valves
+   on the equipment are closed off.

@@ -1,0 +1,23 @@
+connection.
+Cable Types
+• Indoor Power Cable (if applicable): 
+H05VV-F or H05V2V2-F
+• Outdoor Power Cable:  H07RN-F
+• Signal Cable: H07RN-F
+Minimum Cross-Sectional Area of  
+Power and Signal Cables (For reference)
+10. 
+11. 
+12. 
+Rated Current of 
+Appliance (A)
+Nominal Cross-Sectional 
+Area (mm²)
+> 3  and  ≤ 6 0.75
+> 6  and  ≤ 10 1
+> 10  and ≤ 16 1.5
+> 16  and ≤ 25 2.5
+> 25  and ≤ 32 4
+> 32  and ≤ 40 6
+CHOOSE THE RIGHT CABLE SIZE
+The size of the power supply cable, signal

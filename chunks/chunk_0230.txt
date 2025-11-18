@@ -1,0 +1,45 @@
+TIMER ON
+TIMER OFF
+TEM
+P
+SLEEP
+1sec
+ON/O
+FF
+MODE
+FAN
+SHORTCUT
+TIMER ON
+TIMER OFF
+TEM
+P
+SLEEP
+ON/O
+FF
+MODE
+FAN
+SHORTCUT
+TIMER ON
+TIMER OFF
+TEMP
+SLEEP
+ON/O
+FF
+MODE
+FAN
+SHORTCUT
+TIMER ON
+TIMER OFF
+TEM
+P
+SLEEP
+1sec
+x5
+xn xn
+x10
+xn
+Keep in mind that the time periods you set for both functions refer to hours after the current time.
+TIMER 
+TIMER 
+TIMER 
+TIMER

@@ -1,0 +1,8 @@
+0-24 hours
+Fan speed setting range: 
+AU -100%
+This display is blank when 
+operating in FAN mode.
+    
+(20-28 C/68-82 F)
+(Model dependent)

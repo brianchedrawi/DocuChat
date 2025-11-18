@@ -1,0 +1,19 @@
+Outdoor Unit 
+Installation
+ Page 28 
+ 
+Step 4: Connect signal and power cables
+The outside unit’s terminal block is protected by 
+an electrical wiring cover on the side of the unit. 
+A comprehensive wiring diagram is printed on 
+the inside of the wiring cover.
+ WARNING
+  
+    
+   
+ 1. Prepare the cable for connection:
+USE THE RIGHT CABLE 
+• Indoor Power Cable (if applicable):  H05VV-F 
+or H05V2V2-F
+• Outdoor Power Cable:  H07RN-F
+• Signal Cable:  H07RN-F

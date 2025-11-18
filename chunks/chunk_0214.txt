@@ -1,0 +1,25 @@
+for 3 seconds will alternate
+the temperature display
+between the °C &  °F.
+TEMP
+TEMP
+Used to confirm the selected 
+functions
+ 
+ 
+  
+Decreases temperature 
+O O
+in 1 C(1 F) increments. 
+Min. temperature is 
+O O
+16 C(60 F). 
+Used to starts and stops the 
+Fresh feature.
+Turns indoor unit’s LED display 
+and air conditioner buzzer on 
+and off, which create a comfortable 
+and quiet environment. 
+NOTE: Hold down this button 
+for five seconds to alternate 
+the temperature display of indoor

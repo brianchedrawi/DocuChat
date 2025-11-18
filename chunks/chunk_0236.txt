@@ -1,0 +1,17 @@
+than 24  C/75  F will stop ECO operation.
+Under ECO operation, the set tmeperature should be 24  C/75  F or above, it may result in 
+insufficient cooling. If you feel uncomfortable, just press the ECO button again to stop it.
+O
+O
+O
+OOO
+O
+O
+OO
+Clean
+Press X-ECO button to enter the energy efficient mode in a sequence of
+following:
+ECO      GEAR(75%)      GEAR(50%)      Previous setting mode       ECO......
+Note:This function is only available under COOL mode
+ECO operation:
+GEAR operation:

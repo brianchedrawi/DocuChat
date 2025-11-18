@@ -1,0 +1,6 @@
+In this case, Amin and mmax calculations shall be provided for all applicable reference 
+installed heights.
+For appliances serving one or more rooms with an air duct system, the lowest opening of the
+duct connection to each conditioned space or any opening of the indoor unit greater than
+5 cm , at the lowest position to the space, shall be used for h0. However, h0 shall not be less
+than 0,6 m. Amin shall be calculated as a function of the opening heights of the duct to the

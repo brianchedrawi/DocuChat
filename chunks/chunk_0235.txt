@@ -1,0 +1,7 @@
+Under cooling mode, press this button, the remote controller will adjust the temperature 
+automatically to 24  C/75  F, fan speed of Auto to save energy (only when the set temperature 
+is less than 24  C/75  F). If the set temperature is above 24  C/75  F, press the ECO button, 
+the fan speed will change to Auto, the set temperature will remain unchanged.
+NOTE: 
+Pressing the ECO button, or modifying the mode or adjusting the set temperature to less 
+than 24  C/75  F will stop ECO operation.

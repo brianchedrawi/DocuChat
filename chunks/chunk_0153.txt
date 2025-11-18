@@ -1,0 +1,12 @@
+unit. Screw the cable clamp down tightly.
+7. Insulate unused wires with PVC electrical tape.
+    Arrange them so that they do not touch any
+    electrical or metal parts.
+8. Replace the wire cover on the side of the unit,
+    and screw it in place.    
+1. Remove the wire cover from the unit by 
+    loosening the 3 screws.
+2. Dismount caps on the conduit panel.
+3. Temperarily mount the conduit tubes(not 
+    included) on the conduit panel.
+4. Properly connect both the power supply and

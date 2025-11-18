@@ -1,0 +1,35 @@
+the TIMER ON will be activated.
+Press TIMER button to initiate 
+the OFF time sequence. Point remote to unit and wait 1sec, 
+the TIMER OFF will be activated.
+Current
+time 1PM
+2:00PM 3:00PM 4PM 5PM 6PM
+Timer starts Unit turns
+ 
+ON
+Unit turns
+ 
+OFF
+2.5 hours later
+5 hours later
+3:30PM
+Example: If current timer is 1:00PM,
+to set the timer as above steps, the
+unit will turn on 2.5h later (3:30PM)
+and turn off at 6:00PM. 
+  
+ON/O
+FF
+MODE
+FAN
+SHORTCUT
+TIMER ON
+TIMER OFF
+TEM
+P
+SLEEP
+1sec
+ON/O
+FF
+MODE

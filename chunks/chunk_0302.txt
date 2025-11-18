@@ -1,0 +1,8 @@
+  Page 9
+20. Venting of HC Refrigerant (R290)
+Venting may be carried out as an alternative to recovering the refrigerant. Because HC 
+refrigerants have no ODP and negligible GWP, under certain circumstances it may be 
+considered acceptable to vent the refrigerant. However, if this is to be considered, it 
+should be done in accordance with the relevant national rules or regulations, if they 
+permit. 
+In particular, before venting a system, it would be necessary to:

@@ -1,0 +1,10 @@
+The Active clean operation is used to produce 
+   more condensed water to improve the cleaning 
+   effect, and the cold air will blow out. After 
+   cleaning, the internal wind wheel then keeps 
+   operating with hot air to blow-dry the evaporator, 
+   thus preventing the growth of mold and keeping 
+   the inside clean.
+-- When this function is turned on, the indoor
+   unit display window appears “CL ”  , after 20 
+   to 45 minutes, the unit will turn off automatically

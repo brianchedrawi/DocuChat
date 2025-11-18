@@ -1,0 +1,21 @@
+DRY  HEAT  FAN
+FAN SPEED
+SWING
+Model:
+Increases temperate in 
+1°C (1°F) increments. 
+Max. temperature is 
+30°C (86°F).
+NOTE: Press together     &
+     buttons at the same time
+for 3 seconds will alternate
+the temperature display
+between the °C &  °F.
+TEMP
+TEMP
+04
+RG10A2(B2S)/BGEFU1
+RG10A10(B2S)/BGEF(20-28  C/68-82  F)
+RG10A(B2S)/BGEF, RG10A(B2S)/BGEFU1( Fresh feature is not available)
+RG10A2(B2S)/BGCEFU1, RG10A2(B2S)/BGCEF(Cooling only models, 
+AUTO mode and HEAT mode are not available)

@@ -1,0 +1,20 @@
+Sleep mode display
+Follow me feature display
+Wireless control feature display
+Low battery detection display(If flashes)
+Note:
+All indicators shown in the figure are for the purpose of clear presentation. But during the actaul
+operation, only the relative function signs are shown on the display window.
+06
+Remote Screen Indicators
+Displays when LOCK feature
+is activated.
+Silence 
+LOW
+MED
+HIGH
+AUTO
+Lights up when remote 
+sends signal to indoor 
+unit 
+Displays selected fan speed:

@@ -1,0 +1,17 @@
+that connect the indoor and outdoor units. 
+The default position for all piping is the right 
+side of the indoor unit (while facing the unit). 
+However, the unit can accommodate piping to 
+both the left and right.
+
+
+ 
+
+
+
+Refer to the following diagram to ensure 
+proper distance from walls and ceiling:
+Step 2: Attach mounting plate to wall
+The mounting plate is the device on which you 
+will mount the indoor unit.
+ Remove the screw that attaches the mounting

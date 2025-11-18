@@ -1,0 +1,5 @@
+equipment being worked upon prior to any removal of sealed covers, etc. If it is absolutely
+         necessary to have an electrical supply to equipment during servicing, then a permanently
+         operating form of leak detection shall be located at the most critical point to warn of a 
+         potentially hazardous situation.
+10.2  Particular attention shall be paid to the following to ensure that by working on electrical

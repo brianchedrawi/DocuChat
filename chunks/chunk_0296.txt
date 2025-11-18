@@ -1,0 +1,6 @@
+associated shut-off valves in good working order.
+Empty recovery cylinders are evacuated and, if possible, cooled before recovery occurs.
+The recovery equipment shall be in good working order with a set of instructions 
+concerning the equipment that is at hand and shall be suitable for the recovery of
+flammable refrigerants. In addition, a set of calibrated weighing scales shall be available
+and in good working order.

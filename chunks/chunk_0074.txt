@@ -1,0 +1,12 @@
+ Page 13 
+Common Issues
+The following problems are not a malfunction and in most situations will not require repairs.
+Issue Possible Causes
+Unit does not turn 
+on when pressing
+ON/OFF button  
+The Unit has a 3-minute protection feature that prevents the unit from 
+overloading. The unit cannot be restarted within three minutes of being 
+turned off.  
+The unit may change its setting to prevent frost from forming on the unit. 
+Once the temperature increases, the unit will start operating in the

@@ -1,0 +1,8 @@
+Reference installed heights are given below:
+0.0 m for portable and floor mounted;
+1.0m for window mounted;
+1.8m for wall mounted;
+2.2m for ceiling mounted;
+If the minimum installed height given by the manufacturer is higher than the reference 
+installed height, then in addition Amin and mmax for the reference installed height have to 
+be given by the manufacturer. An appliance may have multiple reference installed heights.

@@ -1,0 +1,13 @@
+• Wireless Control (some units)
+Wireless control allows you to control your air 
+conditioner using your mobile phone and a 
+wireless connection.
+• Louver Angle Memory(some units)
+When turning on your unit, the louver will 
+automatically resume its former angle.
+• Refrigerant Leakage Detection
+(some units)
+The indoor unit will automatically display 
+“EL0C”or flash LEDS (model dependent )
+when it detects refrigerant leakage.
+The SLEEP function is used to decrease

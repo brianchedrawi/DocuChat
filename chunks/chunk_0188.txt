@@ -1,0 +1,15 @@
+ Page 36 
+Test Run
+Test Run Instructions
+You should perform the Test Run for at least 30  
+minutes.
+1. Connect power to the unit.
+2. Press the ON/OFF  button on the remote  
+controller to turn it on.
+3. Press the MODE  button to scroll through the  
+following functions, one at a time:
+• COOL – Select lowest possible temperature
+• HEAT – Select highest possible temperature
+4. Let each function run for 5 minutes, and 
+perform the following checks:
+List of Checks to Perform PASS/FAIL

@@ -1,0 +1,15 @@
+ Page 32 
+Refrigerant piping
+Connection
+ CAUTION
+If the outdoor unit is installed higher than the 
+indoor unit:  
+-It is recommended that vertical suction risers 
+not be upsized. Proper oil return to the 
+compressor should be maintained with suction 
+gas velocity. If velocities drop below7.62m/s
+(1500fpm (feet per minute)), oil return will be
+decreased. An oil trap should be installed every 
+6m(20ft) of vertical suction line riser. 
+The outdoor unit is installed higher than the 
+indoor unit

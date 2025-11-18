@@ -1,0 +1,13 @@
+• Signal Cable:  H07RN-F
+a. Using wire strippers, strip the rubber 
+jacket from both ends of cable to reveal 
+about 40mm (1.57in) of the wires inside.
+b. Strip the insulation from the ends of the 
+wires.
+c. Using a wire crimper, crimp u-lugs on the 
+ends of the wires.
+PAY ATTENTION TO LIVE WIRE
+While crimping wires, make sure you clearly 
+distinguish the Live (“L”) Wire from other wires.
+ 2. Unscrew the electrical wiring cover and remove it.
+3. Unscrew the cable clamp below the terminal

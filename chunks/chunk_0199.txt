@@ -1,0 +1,34 @@
+5 4
+My  Mode
+Follow
+ Me
+LED
+Tur
+bo
+Ionis
+er
+Swing
+Timer
+Self Clean
+Mode
+On/
+Off
+Fan
+Sleep
+AUTO
+COOL
+DRY
+HEAT
+FAN
+HIGH
+MED
+LOW
+SET
+ TEMP
+ERATURE
+3
+AUTO
+COOL
+DRY
+HEAT
+FAN AU-100%

@@ -1,0 +1,15 @@
+“         ”   when Fresh feature is activated(some units)
+“       ”   for 3 seconds when:
+• TIMER OFF is set
+• FRESH, SWING, TURBO, ECO,or SILENCE feature is turned off
+“       ”   when defrosting
+ when unit is self-cleaning(For Fixed-speed type)
+“       ”   when 8 C heating feature is turned on(some units)
+“           ” when defrost feature is activated.
+“      ”    
+“       ”    when the unit is on.
+“         ” when TIMER is set.
+fresh 
+defrost
+run
+timer

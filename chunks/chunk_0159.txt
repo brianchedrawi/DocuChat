@@ -1,0 +1,18 @@
+Oblique Rough Warped90°
+ DO NOT DEFORM PIPE 
+ WHILE CUTTING
+Be extra careful not to damage, dent, or 
+deform the pipe while cutting. This will 
+drastically reduce the heating efficiency 
+ of the unit.
+Maximum Length and Drop Height of Refrigerant Piping per Unit Model
+Model Capacity (BTU/h) Max. Length (m) Max. Drop Height (m)
+R410A,R32 Inverter 
+Split Air Conditioner
+R22 Fixed-speed
+Split Air Conditioner
+R410A, R32 Fixed-speed
+Split Air Conditioner
+< 15,000
+< 18,000
+25 (82ft) 10 (33ft)

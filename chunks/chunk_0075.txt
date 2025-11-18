@@ -1,0 +1,12 @@
+previously selected mode again. 
+The set temperature has been reached, at which point the unit turns off the 
+compressor. The unit will continue operating when the temperature 
+ﬂuctuates again.  
+The indoor unit
+emits white mist 
+In humid regions, a large temperature difference between the room’s air 
+and the conditioned air can cause white mist. 
+Both the indoor and 
+outdoor units emit 
+white mist  
+When the unit restarts in HEAT mode after defrosting, white mist may be

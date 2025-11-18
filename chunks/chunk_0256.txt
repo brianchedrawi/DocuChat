@@ -1,0 +1,22 @@
+ Page 2 
+ m     = 2,5 x (LFL)       x h  x (A)
+The maximun charge in a room shall be in accordance with the following:
+max
+max
+min
+(5/4)
+0
+1/2
+ A     = (M/(2,5 x (LFL)       x h  ))min
+min
+(5/4) 0
+0
+2
+2
+2
+3
+or the required minumum floor area  A          to install an applicance with refrigerant charge 
+M(kg) shall be in accordance with following:
+Where.
+m        is the allowable maximum charge in a room, in kg;
+M is the refrigerant charge amount in appliance, in kg;

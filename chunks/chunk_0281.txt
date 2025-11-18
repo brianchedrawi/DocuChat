@@ -1,0 +1,7 @@
+Replace components only with parts specified by the manufacturer. Other parts may result
+in the ignition of refrigerant in the atmosphere from a leak. 
+12. Cabling
+Check that cabling will not be subject to wear, corrosion, excessive pressure, vibration, sharp
+edges or any other adverse environmental effects. The check shall also take into account the
+effects of aging or continual vibration from sources such as compressors or fans.
+13. Detection of ﬂammable refrigerants

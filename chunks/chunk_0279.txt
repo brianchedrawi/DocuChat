@@ -1,0 +1,4 @@
+the purpose of preventing the ingress of flammable atmospheres. Replacement parts shall
+         be in accordance with the manufacturer s specifications.
+NOTE: The use of silicon sealant may inhibit the effectiveness of some types of leak detection
+equipment. Instrinsically safe components do not have to be isolated prior to working on them.

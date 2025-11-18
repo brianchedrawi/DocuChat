@@ -1,0 +1,9 @@
+A        is the required minimum room area, in m  ;
+A is the room area, in m  ; 
+LFL is the lower flammable limit, in kg/m   ;
+h    is the release height, the vertical distance in metres from the floor to the point of
+release when the appliance is installed;
+h   = (hinst+hrel) or 0,6 m whichever is higher 
+hrel  is the release offset in metres from the bottom of the appliance to the point of
+release
+hinst  is the installed height in metres of the unit

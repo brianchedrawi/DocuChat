@@ -1,0 +1,5 @@
+the vacuum in the system with OFN and continuing to fill until the working pressure is achieved, 
+then venting to atmosphere, and finally pulling down to a vacuum. This process shall be repeated 
+until no refrigerant is within the system. When the final OFN charge is used, the system shall be 
+vented down to atmospheric pressure to enable work to take place. This operation is absolutely 
+vital if brazing operations on the pipe-work are to take place.

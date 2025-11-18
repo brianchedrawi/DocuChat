@@ -1,0 +1,9 @@
+time to turn off the unit.  
+NOTE:
+1. When setting the TIMER ON or TIMER OFF, the time will increase by 30 minutes increments with each 
+    press, up to 10 hours. After 10 hours and up to 24, it will increase in 1 hour increments. (For example, 
+    press 5 times to get 2.5h, and press 10 times to get 5h,) The timer will revert to 0.0 after 24.
+2. Cancel either function by setting its timer to 0.0h.
+    
+Point remote to unit and wait 1sec, 
+the TIMER ON will be activated.

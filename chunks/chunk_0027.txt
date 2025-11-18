@@ -1,0 +1,5 @@
+also cause shock. All electrical connections must be made according to the Electrical Connection 
+Diagram located on the panels of the indoor and outdoor units. 
+All wiring must be properly arranged to ensure that the control board cover can close properly. If 
+the control board cover is not closed properly, it can lead to corrosion and cause the connection
+points on the terminal to heat up, catch fire, or cause electrical shock.

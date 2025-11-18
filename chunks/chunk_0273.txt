@@ -1,0 +1,9 @@
+,
+,
+the charge size is in accordance with the room size within which the refrigerant containing
+parts are installed; 
+the ventilation machinery and outlets are operating adequately and are not obstructed;
+if an indirect refrigerating circuit is being used, the secondary circuits shall be checked
+for the presence of refrigerant; marking to the equipment continues to be visible and
+legible.
+marking and signs that are illegible shall be corrected;

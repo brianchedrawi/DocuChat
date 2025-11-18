@@ -1,0 +1,11 @@
+R410A: R410A: 
+(Pipe length – standard length) x 15g/m
+(Pipe length – standard length) x 0.16oZ/ft
+(Pipe length – standard length) x 30g/m
+(Pipe length – standard length) x 0.32oZ/ft
+R22: 
+(Pipe length – standard length) x 20g/m 
+(Pipe length – standard length) x 0.21oZ/ft
+R22: 
+(Pipe length – standard length) x 40g/m 
+(Pipe length – standard length) x 0.42oZ/ft

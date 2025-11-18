@@ -1,0 +1,19 @@
+refrigerant in the system 
+Check for leaks and recharge the 
+system with refrigerant.  
+Incompressible gas or moisture 
+has entered the system.  
+Evacuate and recharge the system 
+with refrigerant 
+The compressor is broken Replace the compressor
+The voltage is too high or
+too low 
+Install a manostat to regulate the 
+voltage 
+Poor heating
+performance 
+The outdoor temperature is
+extremely low 
+Use auxiliary heating device 
+Cold air is entering through
+doors and windows

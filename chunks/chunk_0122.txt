@@ -1,0 +1,20 @@
+ Page 23 
+Indoor Unit 
+Installation
+1. Open front panel of the indoor unit.
+2. Using a screwdriver, open the wire box cover 
+on the right side of the unit. This will reveal 
+the terminal block.
+ 
+ 
+Terminal block
+Front view
+Back view
+(For some units only)
+Knock-out panel
+NOTE:
+For the units with conduit tube to connect the 
+cable, remove the big plastic konck-out panel to
+create a slot through which the conduit tube can 
+be installed.
+For the units with five-core cable, remove the

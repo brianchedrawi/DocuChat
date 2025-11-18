@@ -1,0 +1,6 @@
+ Page 6
+11. Repair to intrinsically safe components
+Do not apply any permanent inductive or capacitance loads to the circuit without ensuring
+that this will not exceed the permissible voltage and current permitted for the equipment in
+use. Intrinscially safe components are the only types that can be worked on while live in the
+presence of a flammable atmosphere. The test apparatus shall be at the correct rating.

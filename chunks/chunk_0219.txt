@@ -1,0 +1,30 @@
+unit 
+Displays selected fan speed:
+Displays the current 
+including:   
+mode, 
+2%-20%
+21%-40%
+41%-60%
+61%-80%
+81%-100%
+ 1%
+This fan speed  can not be 
+adjusted in  AUTO or DRY
+mode. 
+Displays when ECO 
+feature is activated
+Displays when GEAR 
+feature  is activated
+Displays the set temperature
+by default, or fan speed or
+timer setting when using
+TIMER ON/OFF functions.
+Temperature range:
+o o
+o o
+16-30 C / /60-86 F
+Timer setting range: 
+0-24 hours
+Fan speed setting range: 
+AU -100%

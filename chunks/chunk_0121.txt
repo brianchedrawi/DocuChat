@@ -1,0 +1,18 @@
+The size of the power supply cable, signal 
+cable, fuse, and switch needed is determined 
+by the maximum current of the unit. The 
+maximum current is indicated on the nameplate 
+located on the side panel of the unit. Refer to 
+this nameplate to choose the right cable, fuse, 
+or switch.
+ WARNING
+   
+   
+   
+   
+ALL WIRING MUST BE PERFORMED 
+STRICTLY IN ACCORDANCE WITH THE 
+WIRING DIAGRAM LOCATED ON THE 
+BACK OF THE INDOOR UNIT S FRONT 
+PANEL .
+’

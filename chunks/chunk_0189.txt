@@ -1,0 +1,25 @@
+List of Checks to Perform PASS/FAIL
+No electrical leakage
+Unit is properly grounded
+All electrical terminals 
+properly covered
+Indoor and outdoor units  
+are solidly installed
+All pipe connection  
+points do not leak
+Outdoor 
+(2):
+Indoor 
+(2):
+Water drains properly  
+from drain hose
+All piping is properly  
+insulated
+Unit performs COOL  
+function properly
+Unit performs HEAT  
+function properly
+Indoor unit louvers  
+rotate properly
+Indoor unit responds to 
+remote controller

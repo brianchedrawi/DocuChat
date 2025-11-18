@@ -1,0 +1,6 @@
+The product must be properly grounded at the time of installation, or electrical shock may occur. 
+TAKE NOTE OF FUSE SPECIFICATIONS
+The air conditioner’s circuit board (PCB) is designed with a fuse to provide overcurrent protection. 
+The speciﬁcations of the fuse are printed on the circuit board ,such as :  
+Indoor unit: T3.15AL/250VAC, T5AL/250VAC, T3.15A/250VAC, T5A/250VAC, etc. 
+Outdoor unit: T20A/250VAC(<=18000Btu/h units)T30A/250VAC(>18000Btu/h units)

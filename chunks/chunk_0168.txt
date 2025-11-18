@@ -1,0 +1,24 @@
+USE SPANNER TO GRIP MAIN 
+BODY OF VALVE
+Torque from tightening the flare nut can snap 
+off other parts of valve. 
+TORQUE REQUIREMENTS
+Outer Diameter of Pipe
+ (mm)
+Tightening Torque
+ (N•m)
+Flare dimension(B)
+ (mm) Flare shape
+ 
+Ø 6.35 (Ø 0.25”) 8.4~8.7 (0.33~0.34”)
+13.2~13.5 (0.52~0.53”)
+16.2~16.5 (0.64~0.65”)
+19.2~19.7 (0.76~0.78”)
+23.2~23.7 (0.91~0.93”)
+18~20(180~200kgf.cm)
+32~39(320~390kgf.cm)
+49~59(490~590kgf.cm)
+57~71(570~710kgf.cm)
+67~101(670~1010kgf.cm)
+Ø 9.52 (Ø 0.375”)
+Ø 12.7 (Ø 0.5”)

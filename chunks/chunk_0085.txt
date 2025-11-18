@@ -1,0 +1,18 @@
+ Page 15 
+Troubleshooting
+Problem Possible Causes Solution
+The unit is not
+working 
+Power failure Wait for the power to be restored 
+The power is turned off Turn on the power
+The fuse is burned out Replace the fuse
+Remote control batteries are dead Replace batteries
+The Unit’s 3-minute protection
+has been activated 
+Wait three minutes after restarting 
+the unit 
+Timer is activated Turn timer off
+The unit starts and
+stops frequently 
+There’s too much or too little
+refrigerant in the system

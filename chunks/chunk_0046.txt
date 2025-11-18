@@ -1,0 +1,6 @@
+fresh 
+defrost
+run
+timer   
+“        ”   when Wireless Control feature is activated(some units)
+• TIMER ON is set (if the unit is OFF,              remains on when TIMER ON is set )“       ”

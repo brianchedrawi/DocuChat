@@ -1,0 +1,7 @@
+13. Detection of ﬂammable refrigerants
+Under no circumstances shall potential sources of ignition be used in the searching for or 
+detection of refrigerant leaks. A halide torch(or any other detector using a naked flame)
+shall not be used.
+14. Leak detection methods
+The following leak detection methods are deemed acceptable for systems containing flammable
+refrigerants. Electronic leak detectors shall be used to detect flammable refrigerants, but the

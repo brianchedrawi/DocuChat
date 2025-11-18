@@ -1,0 +1,8 @@
+ Page 34 
+Air Evacuation
+Note on Adding Refrigerant
+Some systems require additional charging depending on pipe lengths. The standard pipe length varies
+according to local regulations. For example, in North America, the standard pipe length is 7.5m (25’).
+In other areas, the standard pipe length is 5m (16‘). The refrigerant should be charged from the service 
+port on the outdoor unit’s low pressure valve. The additional refrigerant to be charged can be 
+calculated using the following formula:
