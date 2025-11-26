@@ -1,6 +1,0 @@
-directly on the cord can damage it, which can lead to ﬁre or electric shock.
-Do not modify the length of the power supply cord or use an extension cord to power the unit.  
-Do not share the electrical outlet with other appliances. Improper or insufficient power supply 
-can cause fire or electrical shock.
-If connecting power to fixed wiring, an all-pole disconnection device which has at least 3mm
-clearances in all poles, and have a leakage current that may exceed 10mA, the residual current

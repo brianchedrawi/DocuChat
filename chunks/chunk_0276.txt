@@ -1,9 +1,0 @@
-Initial safety checks shall include:
-    that capacitors are discharged: this shall be done in a safe manner to avoid possibility of 
-    sparking
-    that there no live electrical components and wiring are exposed while charging, recovering
-    or purging the system;
-    that there is continuity of earth bonding.
-,
-10. Repairs to sealed components
-10.1  During repairs to sealed components, all electrical supplies shall be disconnected from the

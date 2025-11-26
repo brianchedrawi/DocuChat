@@ -1,7 +1,0 @@
-refrigerant contained in them.
-    Cylinders shall be kept upright.
-    Ensure that the refrigeration system is earthed prior to charging the system with refrigerant.
-    Label the system when charging is complete(if not already).
-    Extreme care shall be taken not to overfill the refrigeration system.
-    Prior to recharging the system it shall be pressure tested with OFN. The system shall be
-    leak tested on completion of charging but prior to commissioning. A follow up leak test

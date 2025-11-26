@@ -1,5 +1,0 @@
-systems shall be adequately instructed and competent with respect to their tasks.
-Works shall be undertaken with appropriate tools only (In case of uncertainty, please consult 
-the manufacturer of the tools for use with flammable refrigerants)
-The area shall be checked with an appropriate refrigerant detector prior to and during work,
-to ensure the technician is aware of potentially flammable atmospheres. Ensure that the leak

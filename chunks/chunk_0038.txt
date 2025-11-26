@@ -1,9 +1,0 @@
-For R290 refrigerant models, the minimum room size needed:
-<=9000Btu/h units:  13m
->9000Btu/h and <=12000Btu/h units: 17m
->12000Btu/h and <=18000Btu/h units: 26m
->18000Btu/h and <=24000Btu/h units: 35m
-Reusable mechanical connectors and flared joints are not allowed indoors.
-(EN Standard Requirements).
-Mechanical connectors used indoors shall have a rate of not more than 3g/year at 25%
-of the maximum allowable pressure. When mechanical connectors are reused indoors,

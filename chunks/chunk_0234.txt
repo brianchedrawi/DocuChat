@@ -1,9 +1,0 @@
-11
-ECO/GEAR function
-Active Clean Function
-Press CLEAN button
-The Active Clean Technology washes away dust, mold, and grease that may cause 
-odors when it adheres to the heat exchanger by automatically freezing and then rapidly 
-thawing the frost.
-When this function is turned on, the indoor unit display window appears “CL”, after
-20 to 45 minutes, the unit will turn off automatically and cancel CLEAN function.

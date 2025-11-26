@@ -1,6 +1,0 @@
-recovery cylinder, and the relevant Waste Transfer Note arranged. Do not mix refrigerants
-in recovery units and especially not in cylinders.
-If compressors or compressor oils are to be removed, ensure that they have been 
-evacuated to an acceptable level to make certain that flammable refrigerant does not
-remain within the lubricant. The evacuation process shall be carried out prior to retruning
-the compressor to the suppliers. Only electric heating to the compressor body shall be

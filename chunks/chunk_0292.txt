@@ -1,7 +1,0 @@
-In case analysis is required prior to re-use of reclaimed refrigerant. It is essential that 
-electrical power is available before the task is commenced.
-a) Become familiar with the equipment and its operation.
-b) Isolate system electrically
-c) Before attempting the procedure ensure that:
-   mechanical handling equipment is available, if required, for handling refrigerant cylinders;
-   all personal protetive equipment is available and being used correctly;

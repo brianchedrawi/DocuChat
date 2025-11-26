@@ -1,5 +1,0 @@
-device(RCD) having a rated residual operating current not exceeding 30mA, and disconnection
-must be incorporated in the fixed wiring in accordance with the wiring rules.
-For all electrical work, follow all local and national wiring standards, regulations, and the 
-Installation Manual.  Connect cables tightly, and clamp them securely to prevent external forces 
-from damaging the terminal. Improper electrical connections can overheat and cause fire, and may

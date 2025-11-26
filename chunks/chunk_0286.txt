@@ -1,6 +1,0 @@
-systems shall not be done by brazing. The following procedure shall be adhered to:
-     remove refrigerant;
-     purge the circuit with inert gas;
-     evacuate;
-     purge again with inert gas;
-     open the circuit by cutting or brazing .

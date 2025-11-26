@@ -1,8 +1,0 @@
-ECO operation:
-GEAR operation:
-Press the ECO/GEAR button to enter the GEAR operation as following:
-75%(up to 75% electrial energy consumption)
-50%(up to 50% electrial energy consumption)
-Previous setting mode.
-Under GEAR operation, the display on the remote controller will alternage between 
-electical energy consumption and set temperature.

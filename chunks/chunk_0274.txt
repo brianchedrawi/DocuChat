@@ -1,5 +1,0 @@
-refrigeration pipe or components are installed in a position where they are unlikely to be 
-exposed to any substance which may corrode refrigerant containing components, unless
-the components are constructed of materials which are inherently resistant to being
-corroded or are suitably protected against being so corroded. 
-Repair and maintenance to electrical components shall include initial safety checks and

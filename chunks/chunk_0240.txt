@@ -1,4 +1,0 @@
-same time more than 5 seconds to activate Lock function.
-All buttons will not response except pressing these two 
-buttons for two seconds again to disable locking.
-2s

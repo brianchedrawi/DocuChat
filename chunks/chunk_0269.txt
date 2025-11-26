@@ -1,7 +1,0 @@
-detection equipment being used is suitable for use with flammable refrigerants, i.e. no sparking,
-adequately sealed or intrinsically safe.
-7. Ventilated area
-Ensure that the area is in the open or that it it adequately ventilated before breaking into the system
-or conducting any hot work. A degree of ventilation shall continue during the period that the work is 
-carried out. The ventilation should safely disperse any released refrigerant and preferably expel it 
-externally into the atmosphere.

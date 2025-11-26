@@ -1,6 +1,0 @@
-When tranferring refrigerant into cylinders, ensure that only appropriate refrigerant 
-recovery cylinders are employed. Ensure that the correct numbers of cylinders for holding 
-the total system charge are available. All cylinders to be used are designated for the 
-recovered refrigerant and labelled for that refrigerant(i.e special cylinders for the 
-recovery of refrigerant). Cylinders shall be complete with pressure relief valve and 
-associated shut-off valves in good working order.

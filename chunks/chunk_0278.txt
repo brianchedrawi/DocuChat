@@ -1,5 +1,0 @@
-components, the casing is not altered in such a way that the level of protection is affected.
-         This shall include damage to cables, excessive number of connections, terminals not made 
-         to original specification, damage to seals, incorrect fitting of glands, etc.
-         Ensure that apparatus is mounted securely.
-         Ensure that seals or sealing materials have not degraded such that they no longer serve

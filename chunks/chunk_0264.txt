@@ -1,6 +1,0 @@
-NOTE 2  Some examples of the results of the calculations according to the above formula are 
-              given in Tables 1-1 and 1-2.
-NOTE 3  For factory sealed appliances, the nameplate on the unit itself marked the refrigerant 
-              charge can be used to calculate Amin.
-NOTE 4  For field charged products, calculation of Amin can be based on the installed refrigerant 
-              charge not to exceed the factory specified maximum refrigerant charge.

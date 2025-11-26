@@ -1,8 +1,0 @@
---the installation location,
-      --the type of ventilation of the location or of the appliance.
- WARNING
-1. Installation (Space)
-- That the installation of pipe-work shall be kept to a minimum.
-- That pipe-work shall be protected from physical damage.
-- Where refrigerant pipes shall be compliance with national gas regulations.
-- That mechanical connections shall be accessible for maintenance purposes.

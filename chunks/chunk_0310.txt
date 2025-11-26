@@ -1,7 +1,0 @@
-4.  Storage of equipment/appliances
-     The storage of equipment should be in accordance with the manufacturer’s instructions.
-5. Storage of packed (unsold) equipment
-    Storage package protection should be constructed such that mechanical damage to the 
-    equipment inside the package will not cause a leak of the refrigerant charge.
-    The maximum number of pieces of equipment permitted to be stored together will be 
-    determined by local regulations.

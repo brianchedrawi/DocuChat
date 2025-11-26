@@ -1,6 +1,0 @@
-component inspection procedures. If a fault exists that could compromise safety, then no
-electrical supply shall be connected to the circuit until it is satisfactorily dealt with. If the fault
-cannot be corrected immediately but it is necessary to continue operation, and adequate 
-temporary solution shall be used. This shall be reported to the owner of the equipment so all
-parties are advised.
-Initial safety checks shall include:
